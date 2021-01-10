@@ -18,27 +18,26 @@ Plik lub pliki ze sprawozdaniem (w dowolnym formacie: *.rtf, *.doc, *.docx, *.pd
 ### `Zadanie 1. Percepcja słuchowa`
 
 #### `Polecenia`
-***
->Między kolejnymi testami słuchowymi proszę robić ok. 5 minut przerwy.
 
+>Między kolejnymi testami słuchowymi proszę robić ok. 5 minut przerwy.
+***
 - [x] Test 1
 
 1. Proszę wykonać test słuchowy online przygotowany przez firmę [Phonak zgodnie z poleceniami na stronie](https://hearing-screener.beyondhearing.org/phonak/lMePtS/welcome).
 2. W **sprawozdaniu** proszę zapisać własne spostrzeżenia i dołączyć raport z wykonanego testu (zrzut ekranu z części Test Tone).
-
-- [x] Test 2
 ***
+- [x] Test 2
+
 3. Proszę wykonać test słuchowy online przygotowany przez firmę [Blamey Saunders hears zgodnie z poleceniami na stronie] (https://blameysaunders.com.au/discover/test-your-hearing/). Jeżeli nie chcą Państwo podawać własnych adresów e-mail to jest możliwość skorzystania z [adresu tymczasowego np.] (https://temp-mail.org/en/).
 4. W **sprawozdaniu** proszę zapisać własne spostrzeżenia i dołączyć raport z wykonanego testu (opcja Print w przesłanym na adres e-mail raport - może być plik *.pdf).
-
-- [x] Test 3
 ***
+- [x] Test 3
+
 5. Proszę wykonać test słuchowy online [zgodnie z poleceniami na stronie](https://hearingtest.online/). Po wykonaniu wstępnego testu proszę zwiększyć rozdzielczość testu dla niskich częstotliwości (opcja "Alt Low [250-1500Hz]" w sekcji 3). Następnie proszę wykonać test jeszcze raz, ale ze zwiększoną rozdzielczością dla wyższych częstotliwości (opcja "Alt High [1500-8000Hz]" w sekcji 3).
 6. W **sprawozdaniu** proszę zapisać własne spostrzeżenia i dołączyć raport z wykonanych testów (opcja "Print - Save - Bookmark" poniżej wykresu audiogramu):
 - testu oryginalnego
 - testu ze zwiększoną rozdzielczością dla niskich częstotliwości
 - testu ze zwiększoną rozdzielczością dla wysokich częstotliwości
-
 ***
 ### `Zadanie 2. Pomiary podstawowych parametrów dźwięku`
 W kolejnym tygodniu (11-17/01/2021).
