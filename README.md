@@ -6,7 +6,7 @@
 ### **LABORATORIUM 1** | Percepcja słuchowa i pomiary podstawowych parametrów dźwięku.
 
 #### Niezbędne oprogramowanie i sprzęt.
-Ćwiczenie wymaga posiadania urządzenia mobilnego z systemem Android (zadanie 2), a w częściach ćwiczenia związanych z percepcją słuchową (zadanie 1) wskazane jest, aby odsłuchiwanie próbek dźwiękowych odbywało się za pomocą **słuchawek nausznych lub dousznych** (niezalecany jest odsłuch za pomocą wbudowanych lub zewnętrznych głośników komputerowych). Przed przystąpieniem do wykonania zadania 2 ćwiczenia laboratoryjnego należy **pobrać i zainstalować** darmowe [oprogramowanie do analizy widmowej](https://play.google.com/store/apps/details?id=org.intoorbit.spectrum) oraz [oprogramowanie do pomiarów dźwięku](ścieżka do dBMeter). 
+Ćwiczenie wymaga posiadania urządzenia mobilnego z systemem Android (zadanie 2), a w częściach ćwiczenia związanych z percepcją słuchową (zadanie 1) wskazane jest, aby odsłuchiwanie próbek dźwiękowych odbywało się za pomocą **słuchawek nausznych lub dousznych** (niezalecany jest odsłuch za pomocą wbudowanych lub zewnętrznych głośników komputerowych). Przed przystąpieniem do wykonania zadania 2 ćwiczenia laboratoryjnego należy **pobrać i zainstalować** darmowe [oprogramowanie do analizy widmowej](https://play.google.com/store/apps/details?id=org.intoorbit.spectrum) oraz [oprogramowanie do pomiarów dźwięku](https://github.com/MarcinEL/WIT-LAB1/tree/main/installs). 
 
 ### Sprawozdania
 
