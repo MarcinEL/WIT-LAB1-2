@@ -17,14 +17,14 @@ Plik lub pliki ze sprawozdaniem (w dowolnym formacie: *.rtf, *.doc, *.docx, *.pd
 
 ### `Zadanie 1. Percepcja słuchowa`
 
-#### `Polecenia`
+#### Polecenia
 
 >Między kolejnymi testami słuchowymi proszę robić ok. 5 minut przerwy.
 ***
 - [x] Test 1
 
 1. Proszę wykonać test słuchowy online przygotowany przez firmę [Phonak zgodnie z poleceniami na stronie](https://hearing-screener.beyondhearing.org/phonak/lMePtS/welcome).
-2. W **sprawozdaniu** proszę zapisać własne spostrzeżenia i dołączyć raport z wykonanego testu (zrzut ekranu z części Test Tone).
+2. W **sprawozdaniu** proszę zapisać własne spostrzeżenia i dołączyć raport z wykonanego testu (zrzut ekranu z części `Test Tone`).
 ***
 - [x] Test 2
 
@@ -33,8 +33,8 @@ Plik lub pliki ze sprawozdaniem (w dowolnym formacie: *.rtf, *.doc, *.docx, *.pd
 ***
 - [x] Test 3
 
-1. Proszę wykonać test słuchowy online [zgodnie z poleceniami na stronie](https://hearingtest.online/). Po wykonaniu wstępnego testu proszę zwiększyć rozdzielczość testu dla niskich częstotliwości (opcja "Alt Low [250-1500Hz]" w sekcji 3). Następnie proszę wykonać test jeszcze raz, ale ze zwiększoną rozdzielczością dla wyższych częstotliwości (opcja "Alt High [1500-8000Hz]" w sekcji 3).
-2. W **sprawozdaniu** proszę zapisać własne spostrzeżenia i dołączyć raport z wykonanych testów (opcja "Print - Save - Bookmark" poniżej wykresu audiogramu):
+1. Proszę wykonać test słuchowy online [zgodnie z poleceniami na stronie](https://hearingtest.online/). Po wykonaniu wstępnego testu proszę zwiększyć rozdzielczość testu dla niskich częstotliwości (opcja `Alt Low [250-1500Hz]` w sekcji 3). Następnie proszę wykonać test jeszcze raz, ale ze zwiększoną rozdzielczością dla wyższych częstotliwości (opcja `Alt High [1500-8000Hz]` w sekcji 3).
+2. W **sprawozdaniu** proszę zapisać własne spostrzeżenia i dołączyć raport z wykonanych testów (opcja `Print - Save - Bookmark` poniżej wykresu audiogramu):
   - testu oryginalnego
   - testu ze zwiększoną rozdzielczością dla niskich częstotliwości
   - testu ze zwiększoną rozdzielczością dla wysokich częstotliwości
