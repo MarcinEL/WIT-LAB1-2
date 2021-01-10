@@ -6,7 +6,7 @@
 ### **LABORATORIUM 1** | Percepcja słuchowa i pomiary podstawowych parametrów dźwięku.
 
 #### Niezbędne oprogramowanie i sprzęt.
-Ćwiczenie wymaga posiadania urządzenia mobilnego z systemem Android. Przed przystąpieniem do wykonania zadania 2 ćwiczenia laboratoryjnego należy **pobrać i zainstalować** darmowe [oprogramowanie do analizy widmowej](https://play.google.com/store/apps/details?id=org.intoorbit.spectrum) oraz [oprogramowanie do pomiarów dźwięku](ścieżka do dBMeter). W częściach ćwiczenia związanych z percepcją słuchową (zadanie 1) wskazane jest, aby odsłuchiwanie próbek dźwiękowych odbywało się za pomocą **słuchawek nausznych lub dousznych** (niezalecany jest odsłuch za pomocą wbudowanych lub zewnętrznych głośników komputerowych).
+Ćwiczenie wymaga posiadania urządzenia mobilnego z systemem Android (zadanie 2), a w częściach ćwiczenia związanych z percepcją słuchową (zadanie 1) wskazane jest, aby odsłuchiwanie próbek dźwiękowych odbywało się za pomocą **słuchawek nausznych lub dousznych** (niezalecany jest odsłuch za pomocą wbudowanych lub zewnętrznych głośników komputerowych). Przed przystąpieniem do wykonania zadania 2 ćwiczenia laboratoryjnego należy **pobrać i zainstalować** darmowe [oprogramowanie do analizy widmowej](https://play.google.com/store/apps/details?id=org.intoorbit.spectrum) oraz [oprogramowanie do pomiarów dźwięku](ścieżka do dBMeter). 
 
 ### Sprawozdania
 
@@ -23,18 +23,18 @@ Plik lub pliki ze sprawozdaniem (w dowolnym formacie: *.rtf, *.doc, *.docx, *.pd
 ***
 - [x] Test 1
 
-1.1 Proszę wykonać test słuchowy online przygotowany przez firmę [Phonak zgodnie z poleceniami na stronie](https://hearing-screener.beyondhearing.org/phonak/lMePtS/welcome).
-1.2 W **sprawozdaniu** proszę zapisać własne spostrzeżenia i dołączyć raport z wykonanego testu (zrzut ekranu z części Test Tone).
+1. Proszę wykonać test słuchowy online przygotowany przez firmę [Phonak zgodnie z poleceniami na stronie](https://hearing-screener.beyondhearing.org/phonak/lMePtS/welcome).
+2. W **sprawozdaniu** proszę zapisać własne spostrzeżenia i dołączyć raport z wykonanego testu (zrzut ekranu z części Test Tone).
 ***
 - [x] Test 2
 
-2.1 Proszę wykonać test słuchowy online przygotowany przez firmę [Blamey Saunders hears zgodnie z poleceniami na stronie] (https://blameysaunders.com.au/discover/test-your-hearing/). Jeżeli nie chcą Państwo podawać własnych adresów e-mail to jest możliwość skorzystania z [adresu tymczasowego np.] (https://temp-mail.org/en/).
-2.2 W **sprawozdaniu** proszę zapisać własne spostrzeżenia i dołączyć raport z wykonanego testu (opcja Print w przesłanym na adres e-mail raport - może być plik *.pdf).
+1. Proszę wykonać test słuchowy online przygotowany przez firmę [Blamey Saunders hears zgodnie z poleceniami na stronie] (https://blameysaunders.com.au/discover/test-your-hearing/). Jeżeli nie chcą Państwo podawać własnych adresów e-mail to jest możliwość skorzystania z [adresu tymczasowego np.] (https://temp-mail.org/en/).
+2. W **sprawozdaniu** proszę zapisać własne spostrzeżenia i dołączyć raport z wykonanego testu (opcja Print w przesłanym na adres e-mail raport - może być plik *.pdf).
 ***
 - [x] Test 3
 
-3.1 Proszę wykonać test słuchowy online [zgodnie z poleceniami na stronie](https://hearingtest.online/). Po wykonaniu wstępnego testu proszę zwiększyć rozdzielczość testu dla niskich częstotliwości (opcja "Alt Low [250-1500Hz]" w sekcji 3). Następnie proszę wykonać test jeszcze raz, ale ze zwiększoną rozdzielczością dla wyższych częstotliwości (opcja "Alt High [1500-8000Hz]" w sekcji 3).
-3.2 W **sprawozdaniu** proszę zapisać własne spostrzeżenia i dołączyć raport z wykonanych testów (opcja "Print - Save - Bookmark" poniżej wykresu audiogramu):
+1. Proszę wykonać test słuchowy online [zgodnie z poleceniami na stronie](https://hearingtest.online/). Po wykonaniu wstępnego testu proszę zwiększyć rozdzielczość testu dla niskich częstotliwości (opcja "Alt Low [250-1500Hz]" w sekcji 3). Następnie proszę wykonać test jeszcze raz, ale ze zwiększoną rozdzielczością dla wyższych częstotliwości (opcja "Alt High [1500-8000Hz]" w sekcji 3).
+2. W **sprawozdaniu** proszę zapisać własne spostrzeżenia i dołączyć raport z wykonanych testów (opcja "Print - Save - Bookmark" poniżej wykresu audiogramu):
   - testu oryginalnego
   - testu ze zwiększoną rozdzielczością dla niskich częstotliwości
   - testu ze zwiększoną rozdzielczością dla wysokich częstotliwości
