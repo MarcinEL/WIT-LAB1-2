@@ -44,9 +44,9 @@ Plik lub pliki ze sprawozdaniem (w dowolnym formacie: *.rtf, *.doc, *.docx, *.pd
 - [x] Test 1
 
 1. Proszę znaleźć w najbliższym otoczeniu ścianę (o powierzchni dużo większej względem rozmiarów urządzenia mobilnego), stanąć w pewnej odległości od ściany i uruchomić dowolny utwór muzyczny. Następnie ([rysunek pomocniczy](https://github.com/MarcinEL/WIT-LAB1/blob/main/images/Zad2_img1.png)):
-  - zbliżyć źródło dźwięku do ściany na pewnej wysokości od podłogi (jedna powierzchnia odbijająca)
-  - umieścić źródło dźwięku blisko ściany i na podłodze (dwie powierzchnie odbijające)
-  - umieścić źródło dźwięku na podłodze w rogu między dwoma ścianami (trzy powierzchnie odbijające)
+  - zbliżyć źródło dźwięku do ściany na pewnej wysokości od podłogi (jedna powierzchnia odbijająca) i posłuchać kilka sekund
+  - umieścić źródło dźwięku blisko ściany i na podłodze (dwie powierzchnie odbijające) i posłuchać kilka sekund
+  - umieścić źródło dźwięku na podłodze w rogu między dwoma ścianami (trzy powierzchnie odbijające) i posłuchać kilka sekund
 2. W **sprawozdaniu** proszę zapisać własne spostrzeżenia dotyczące zmian, które zachodzą przy każdorazowej zmianie położenie źródła dźwięku. Istotne jest, aby materiał dźwiękowy w trakcie przemieszczania źródła dźwięku nie zmieniał swojego charakteru. Jakie zjawiska mogą mieć wpływ na zmiany odbieranego materiału dźwiękowego?
 ***
 - [x] Test 2
