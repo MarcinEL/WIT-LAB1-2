@@ -51,7 +51,7 @@ Plik lub pliki ze sprawozdaniem (w dowolnym formacie: *.rtf, *.doc, *.docx, *.pd
 ***
 - [x] Test 2
 
-1. Proszę uruchomić aplikację [dBMeter](https://github.com/MarcinEL/WIT-LAB1#niezb%C4%99dne-oprogramowanie-i-sprz%C4%99t) w urządzeniu mobilnym i ustawić parametry aplikacji zgodnie z [podanymi](https://github.com/MarcinEL/WIT-LAB1/blob/main/images/Zad2_img2.jpg).
+1. Proszę uruchomić aplikację [dBMeter](https://github.com/MarcinEL/WIT-LAB1/tree/main/installs) w urządzeniu mobilnym i ustawić parametry aplikacji zgodnie z [podanymi](https://github.com/MarcinEL/WIT-LAB1/blob/main/images/Zad2_img2.jpg).
 2. Proszę umieścić urządzenie mobilne w pewnej odległości od ściany i uruchomić [plik dźwiękowy](https://github.com/MarcinEL/WIT-LAB1/blob/main/samples/rain_noise.wav) oraz włączyć opcję logowania danych do pliku w aplikacji dBMeter -> [opcja `Save`](https://github.com/MarcinEL/WIT-LAB1/blob/main/images/Zad2_img3.jpg) oraz odczekać co najmniej 10 sekund, aby wykonać przynajmniej 30 pomiarów (logowanie do pliku odbywa się co 1 sekundę). Wyłączyć logowanie do pliku przyciskiem `Stop`.
 3. Następnie umieścić urządzenie mobilne na podłodze w rogu między dwoma ścianami i wykonać identyczne pomiary jak w punkcie wyżej zapisując dane pomiarowe do kolejnego pliku.
 4. Pliki z zapisanymi danymi opisującymi zmierzony poziom głośności w całym paśmie (kolumna dB(A)) oraz podpasmach oktawowych (od 16Hz do 20kHz) z rozdzielczością co 1 sekundę można udostępnić bezpośrednio z [poziomu aplikacji](https://github.com/MarcinEL/WIT-LAB1/blob/main/images/Zad2_img4.jpg).
