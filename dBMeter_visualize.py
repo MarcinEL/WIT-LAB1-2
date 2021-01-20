@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # plik z danymi 
-with open("/content/drive/MyDrive/dbmeter.txt") as f:
+with open('<ścieżka do pliku>') as f:
   n_cols = len(f.readline().split("\t"))
 
 # moc sygnału w danym zakresie częstliwości dla każdej sekundy pomiaru
