@@ -60,4 +60,12 @@ Plik lub pliki ze sprawozdaniem (w dowolnym formacie: *.rtf, *.doc, *.docx, *.pd
 ***
 - [x] Test 3
 
-1. Proszę uruchomić aplikację 
+1. Proszę przygotować pustą butelkę (najlepiej szklaną) i zapisać/odczytać parametry:
+  - odczytać i zapisać objętość butelki **V** (jednostka ml == cm^3)
+  - zmierzyć i zapisać pole powierzchni **A** otworu w [szyjce butelki](https://github.com/MarcinEL/WIT-LAB1/blob/main/images/Zad2_img10.jpg)
+  - zmierzyć i zapisać [długość szyjki](https://github.com/MarcinEL/WIT-LAB1/blob/main/images/Zad2_img9.jpg) **L**
+2. Proszę obliczyć przybliżoną częstotliwość rezonansową takiego układu ([rezonator Helmholtz'a](http://hyperphysics.phy-astr.gsu.edu/hbase/Waves/cavity.html#c1)) za pomocą [kalkulatora online](http://hyperphysics.phy-astr.gsu.edu/hbase/Waves/cavity.html#c4). Należy zwrócić uwagę, aby dobrze obliczyć wszystkie parametry i zachować odpowiednie jednostki każdego z wymiarów.
+3. Proszę uruchomić [aplikację](https://play.google.com/store/apps/details?id=org.intoorbit.spectrum) i ustawić parametry [dźwięku](https://github.com/MarcinEL/WIT-LAB1/blob/main/images/Zad2_img5.jpg), [zobrazowania](https://github.com/MarcinEL/WIT-LAB1/blob/main/images/Zad2_img6.jpg) oraz [inne](https://github.com/MarcinEL/WIT-LAB1/blob/main/images/Zad2_img7.jpg).
+4. Proszę umieścić urządzenie mobilne blisko butelki z włączoną aplikacją do pomiaru widma i pobudzić układ do drgań przez wdmuchiwanie pod pewnym kątem powietrza w otwór szyjki butelki aż do uzyskania słyszalnego tonu oraz zapisać częstotliwość wykrytą i zmierzoną przez aplikację. Przydatną opcją w aplikacji może być resetowanie widoku [zobrazowania widma](https://github.com/MarcinEL/WIT-LAB1/blob/main/images/Zad2_img8.jpg).
+5. Proszę dolać 100ml wody do pustej butelki i powtórzyć czynności z punktów 1, 2 i 4 (w punkcie 1. zmianie ulega tylko efektywna objętość butelki - zostaje pomniejszona o 100ml). Następnie proszę dolewać kolejne 100ml wody i powtarzać obliczenia i pomiar dopóki butelka się nie wypełni lub do momentu otrzymania 4 par obliczenia-pomiar.
+6. W **sprawozdaniu** proszę zamieścić wyniki obliczeń zestawione z wynikami pomiarów w formie tabeli.
