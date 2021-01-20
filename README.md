@@ -60,4 +60,4 @@ Plik lub pliki ze sprawozdaniem (w dowolnym formacie: *.rtf, *.doc, *.docx, *.pd
 ***
 - [x] Test 3
 
-1. Proszę uruchomić aplikację [dBMeter](https://github.com/MarcinEL/WIT-LAB1#niezb%C4%99dne-oprogramowanie-i-sprz%C4%99t) w urządzeniu mobilnym i ustawić parametry aplikacji zgodnie z [podanymi](https://github.com/MarcinEL/WIT-LAB1/blob/main/images/Zad2_img2.jpg).
+1. Proszę uruchomić aplikację 
