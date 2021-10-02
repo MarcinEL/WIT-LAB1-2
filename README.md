@@ -1,7 +1,7 @@
 ***
 ***
 
-# Cyfrowa Technika Foniczna 2020Z
+# Cyfrowa Technika Foniczna %YZ
 
 ### **LABORATORIUM 1-2** | Percepcja słuchowa i pomiary podstawowych parametrów dźwięku.
 
@@ -10,7 +10,7 @@
 
 ### Sprawozdania
 
-Plik lub pliki ze sprawozdaniem (w dowolnym formacie: *.rtf, *.doc, *.docx, *.pdf, Markdown, LaTex) należy umieszczać w repozytorium [GitHub](https://github.com/). Po zalogowaniu się do systemu każdy powinien utworzyć nowe repozytorium o nazwie <CTF2020Z_SPR> i tam umieścić plik/pliki ze sprawozdaniem.
+Plik lub pliki ze sprawozdaniem (w dowolnym formacie: *.rtf, *.doc, *.docx, *.pdf, Markdown, LaTex) należy umieszczać w repozytorium [GitHub](https://github.com/). Po zalogowaniu się do systemu każdy powinien utworzyć nowe repozytorium o nazwie <CTF%YZ_SPR> i tam umieścić plik/pliki ze sprawozdaniem.
 
 ***
 ***
