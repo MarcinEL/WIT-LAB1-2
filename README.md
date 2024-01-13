@@ -28,8 +28,8 @@ Plik lub pliki ze sprawozdaniem (w dowolnym formacie: *.rtf, *.doc, *.docx, *.pd
 ***
 - [x] Test 2
 
-1. Proszę wykonać test słuchowy online przygotowany przez firmę [Blamey Saunders hears zgodnie z poleceniami na stronie](https://blameysaunders.com.au/discover/test-your-hearing/). Jeżeli nie chcą Państwo podawać własnych adresów e-mail to jest możliwość skorzystania z [adresu tymczasowego TempMail](https://temp-mail.org/en/).
-2. W **sprawozdaniu** proszę zapisać własne spostrzeżenia i dołączyć raport z wykonanego testu (opcja Print w przesłanym na adres e-mail raport - może być plik *.pdf).
+1. Proszę wykonać testy słuchowe online (speech test i beep test) przygotowane przez firmę [Blamey Saunders hears zgodnie z poleceniami na stronie](https://www.connecthearing.com.au/online-hearing-test/). Jeżeli nie chcą Państwo podawać własnych adresów e-mail to jest możliwość skorzystania z [adresu tymczasowego TempMail](https://temp-mail.org/en/).
+2. W **sprawozdaniu** proszę zapisać własne spostrzeżenia i dołączyć raport z wykonanych testów.
 ***
 - [x] Test 3
 
