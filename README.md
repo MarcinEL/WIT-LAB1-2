@@ -24,7 +24,7 @@ Plik lub pliki ze sprawozdaniem (w dowolnym formacie: *.rtf, *.doc, *.docx, *.pd
 - [x] Test 1
 
 1. Proszę wykonać test słuchowy online przygotowany przez firmę [Phonak zgodnie z poleceniami na stronie](https://hearing-screener.beyondhearing.org/phonak/lMePtS/welcome).
-2. W **sprawozdaniu** proszę zapisać własne spostrzeżenia i dołączyć raport z wykonanego testu (zrzut ekranu z części `Test Tone`).
+2. W **sprawozdaniu** proszę zapisać własne spostrzeżenia i dołączyć raport z wykonanego testu.
 ***
 - [x] Test 2
 
