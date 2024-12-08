@@ -1,7 +1,7 @@
 ***
 ***
 
-# Cyfrowa Technika Foniczna 2023Z
+# Cyfrowa Technika Foniczna 2024Z
 
 ### **LABORATORIUM 1-2** | Percepcja słuchowa i pomiary podstawowych parametrów dźwięku.
 
