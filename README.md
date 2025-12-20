@@ -12,7 +12,7 @@ Instalacja oprogramowania do pomiarów dźwięku może wymagać włączenia opcj
 ***
 ### Sprawozdania
 
-Plik lub pliki ze sprawozdaniem (w dowolnym formacie: *.rtf, *.doc, *.docx, *.pdf, Markdown, LaTex) należy umieszczać w repozytorium [GitHub](https://github.com/). Po zalogowaniu się do systemu każdy powinien utworzyć nowe repozytorium o nazwie <CTF2024Z_SPR> i tam umieścić plik/pliki ze sprawozdaniem.
+Plik lub pliki ze sprawozdaniem (w dowolnym formacie: *.rtf, *.doc, *.docx, *.pdf, Markdown, LaTex) należy umieszczać w repozytorium [GitHub](https://github.com/). Po zalogowaniu się do systemu każdy powinien utworzyć nowe repozytorium o nazwie <CTF2025Z_SPR> i tam umieścić plik/pliki ze sprawozdaniem.
 
 ***
 ***
